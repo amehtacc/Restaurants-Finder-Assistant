@@ -1,5 +1,5 @@
 import React from "react";
-
+import foodPlateImage from "../assets/plate.png"
 /**
  * A reusable component to display restaurant details in a styled card format.
  *
@@ -24,7 +24,7 @@ function RestaurantCard({
     <div className="w-[1000px] h-[350px] flex bg-yellow-200 rounded-xl shadow-xl border-6 border-green-500">
       {/* Left Section: Displays a food plate image and restaurant name */}
       <div className="w-[30%] p-2 flex flex-col items-center">
-        <img className="w-60" src="src/assets/plate.png" alt="food_plate" />
+        <img className="w-60" src={foodPlateImage} alt="Food Plate" />
         <p className="font-bold text-xl text-center">{name}</p>
       </div>
 

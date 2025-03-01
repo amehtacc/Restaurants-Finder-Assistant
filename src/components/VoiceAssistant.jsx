@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { getRestaurants } from "../api/geoapify"; // Function to fetch restaurant data from Geoapify API
 import { startSpeechRecognition, speakText } from "../api/speech"; // Functions to handle voice input and text-to-speech
 import RestaurantCard from "./RestaurantCard"; // Component to display restaurant details
+import micImage from "../assets/mic.png"
 
 // Main VoiceAssistant Component
 export default function VoiceAssistant() {
@@ -100,7 +101,7 @@ export default function VoiceAssistant() {
           <button onClick={startListening}>
             <img
               className="w-60 cursor-pointer"
-              src="src/assets/mic.png"
+              src={micImage}
               alt="mic"
             />
           </button>
