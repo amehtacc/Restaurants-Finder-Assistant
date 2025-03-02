@@ -89,7 +89,7 @@ restaurant-finder-assistant/
 
 Developed by **Aryan Mehta** 🚀
 
-## 📜 License
+## 🌐 Contact Information
 
-This project is open-source under the MIT License.
+Build with ❤️ by [Aryan Mehta](https://aryanmehta.netlify.app/) - feel free to contact me!
 
