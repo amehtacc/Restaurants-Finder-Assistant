@@ -4,6 +4,10 @@
 
 The **Voice Assistant Restaurant Finder** is a React-based web application that allows users to find nearby restaurants using voice commands. The app leverages speech recognition, text-to-speech, and geolocation to provide users with an interactive experience.
 
+## 🚀 Live Project
+
+Here's a live demo link: [Restaurant Finder Assistant](https://restaurants-finder-assistant.netlify.app/)
+
 ## 🎯 Features
 
 - 🎙️ **Voice Command Recognition** - Users can ask for restaurant recommendations via voice.
@@ -38,7 +42,7 @@ npm install
 - Create an account on [Geoapify](https://www.geoapify.com/) and obtain an API key.
 - Store your API key in a `.env` file like this:
   ```bash
-  REACT_APP_GEOAPIFY_KEY=your_api_key_here
+  VITE_GEOAPIFY_API_KEY=your_api_key_here
   ```
 
 ### 4️⃣ Start the Development Server
