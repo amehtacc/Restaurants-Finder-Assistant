@@ -8,6 +8,10 @@ The **Voice Assistant Restaurant Finder** is a React-based web application that 
 
 Here's a live demo link: [Restaurant Finder Assistant](https://restaurants-finder-assistant.netlify.app/)
 
+## 👨🏻‍🏫 Video Presentation Link
+
+Here's a video presentation link: [Presentation Link](https://drive.google.com/file/d/14sooOak47EBX1yfCjaMRBGY38X6KGrKb/view?usp=sharing)
+
 ## 🎯 Features
 
 - 🎙️ **Voice Command Recognition** - Users can ask for restaurant recommendations via voice.
@@ -74,7 +78,7 @@ restaurant-finder-assistant/
 ## 📝 Usage Instructions
 
 1. Click the **microphone button** to start voice recognition.
-2. Say something like *"Find 5 restaurants near me"* or *"Show food places nearby"*.
+2. Say something like _"Find 5 restaurants near me"_ or _"Show food places nearby"_.
 3. The assistant will fetch and read out the restaurant names.
 4. The list of restaurants will be displayed on the page.
 5. If no restaurants are found, the assistant will notify you.
@@ -92,4 +96,3 @@ Developed by **Aryan Mehta** 🚀
 ## 🌐 Contact Information
 
 Build with ❤️ by [Aryan Mehta](https://aryanmehta.netlify.app/) - feel free to contact me!
-
